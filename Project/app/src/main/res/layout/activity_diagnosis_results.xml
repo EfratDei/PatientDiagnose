@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DiagnosisResults">
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Diagnosis And Treatment"
+        android:layout_marginStart="105dp"
+        android:layout_marginTop="72dp"
+        android:textSize="20dp"
+        />
+
+    <ListView
+        android:id="@+id/diagnosisList"
+        android:layout_width="350dp"
+        android:layout_height="510dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="170dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+
+
+
+</RelativeLayout>

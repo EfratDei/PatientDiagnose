@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/shaha/Desktop/Project/app/src/main/res/layout/activity_blood_test_data.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/shaha/Desktop/Project/app/src/main/res/layout/activity_client_meeting.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/shaha/Desktop/Project/app/src/main/res/layout/activity_diagnosis.xml" value="0.33" />
+        <entry key="..\:/Users/shaha/Desktop/Project/app/src/main/res/layout/activity_diagnosis_results.xml" value="0.22" />
+        <entry key="..\:/Users/shaha/Desktop/Project/app/src/main/res/layout/activity_login.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/shaha/Desktop/Project/app/src/main/res/layout/activity_register.xml" value="0.2970464135021097" />
+        <entry key="..\:/Users/shaha/Desktop/Project/app/src/main/res/layout/item.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_blood_test_data.xml" value="0.3333333333333333" />
+        <entry key="app/src/main/res/layout/activity_client_meeting.xml" value="0.31260726163163777" />
+        <entry key="app/src/main/res/layout/activity_diagnosis.xml" value="0.3389868885278702" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.27350427350427353" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.3333333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
